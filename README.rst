@@ -64,6 +64,9 @@ Cool and/or fun things I have done
 Here are some open-source projects that I have either solely authored or
 contributed significantly to:
 
+-  A project using OpenCV to detect fruit trees in Google streetview
+   images.
+
 -  An intro to C++ template metaprogramming I wrote:
    `Dr. Strangetemplate <https://github.com/MCGallaspy/dr_strangetemplate>`__
 
@@ -77,7 +80,7 @@ A sorted, incomplete list of languages/libraries/stuff I know & math topics I li
 C, C++, C++ template metaprogramming, complexity theory, data
 structures, design patterns, differential geometry, Django, functional
 analysis, git, HTML+CSS, javascript, linear algebra, multithreaded
-programming, NumPy, open-source contribution, probability & statistics,
+programming, NumPy, OpenCV, open-source contribution, probability & statistics,
 Python, Qt, remote working (it is a skillset!), SymPy, and writing good
 documentation (actually I just like writing in general).
 
