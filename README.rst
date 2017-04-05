@@ -64,6 +64,8 @@ Cool and/or fun things I have done
 Here are some open-source projects that I have either solely authored or
 contributed significantly to:
 
+-  A set of easy-to-use scripts for training Haar cascades using OpenCV (sole author): `cascade-trainer <https://github.com/MCGallaspy/cascade-trainer>`_
+
 -  A project using OpenCV to detect fruit trees in Google streetview
    images.
 
