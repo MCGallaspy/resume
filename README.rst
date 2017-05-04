@@ -58,6 +58,14 @@ positions I have gone beyond my normal duties in the following ways:
    multi-district math competition, and co-organized a nation-wide chess
    competition for students.
 
+Internet of Things
+==================
+
+I am intersted in the IoT space and in my free time I have been developing a network-aware pressure sensor.
+It combines a Raspberry Pi, a cell modem, and an analog pressure transmitter to provide real-time field
+updates for relevant application areas.
+The idea currently is targeted to commercial plumbing applications.
+   
 Cool and/or fun things I have done
 ==================================
 
